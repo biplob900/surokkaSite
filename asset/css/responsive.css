@@ -1,0 +1,506 @@
+/* xl layout 1200px to 1399px */
+@media only screen and (min-width: 1200px) and (max-width: 1399px) {
+    .banner-regi-card {
+        padding: 13px;
+    }
+
+    .mujib100-playstore {
+        margin-top: 13%;
+    }
+
+    .mujib100-appstore {
+        margin-top: 25%;
+    }
+}
+
+/* lg Layout: 1280px. */
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+    .nav-img-responsive {
+        width: 190px;
+    }
+
+    .banner-regi-card {
+        padding: 18px;
+    }
+
+    .banner-regi-card-body-text {
+        padding: 80px 0px 5px 0px;
+    }
+
+    .prosess-singel-card {
+        padding: 20px 0px;
+    }
+
+    .mujib100-playstore {
+        margin-top: 15%;
+    }
+
+    .mujib100-appstore {
+        margin-top: 27%;
+    }
+
+    .footer-content img {
+        width: 100%;
+    }
+}
+
+/* Tablet Layout: 768px. */
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+    .nav-edit-fixd {
+        position: fixed;
+        width: 100%;
+        overflow: hidden;
+        z-index: 999;
+    }
+
+    .nav-a {
+        padding: 8px 4px;
+    }
+
+    .nav-img-responsive {
+        width: 180px;
+    }
+
+    .su-lang-btn {
+        margin-bottom: 10px;
+    }
+
+    .banner-regi-card {
+        padding: 30px;
+    }
+
+    .banner-regi-card-body-text {
+        padding: 80px 0px 5px 0px;
+    }
+
+    .banner-regi-card-title-responsive {
+        width: 70px;
+    }
+
+    .banner-regi-card-text {
+        font-size: 30px;
+    }
+
+    .banner-regi-card-body-text {
+        font-size: 19px;
+    }
+
+    .banner-regi-card-body-img {
+        width: 250px;
+    }
+
+    .hotline-content {
+        width: 100%;
+    }
+
+    .hotline-meta p {
+        font-size: 18px;
+    }
+
+    .prosess-guide-content {
+        margin: 20px 0px;
+    }
+
+    .prosess-singel-card {
+        padding: 5px;
+    }
+
+    .prosess-singel-card p {
+        margin-bottom: 0px;
+    }
+
+    .mujib-100-content {
+        margin: 0px 0px 80px 0px;
+    }
+
+    .mujib-100-card {
+        margin: 0px;
+    }
+
+    .mujib100-playstore {
+        margin-top: 30%;
+        width: 100%;
+    }
+
+    .mujib100-appstore {
+        margin-top: 33%;
+    }
+
+    .footer-content {
+        padding: 50px 0px;
+        margin: 0px;
+    }
+
+    .footer-content img {
+        width: 100%;
+    }
+
+    .sub-page-heading h1 {
+        font-size: 30px;
+        padding: 10px 0px;
+    }
+
+    .side-nanv-img {
+        display: none;
+    }
+
+    .sub-page-sideNav {
+        padding: 10px 0px;
+    }
+
+    .side-btn {
+        width: 94%;
+        margin: 5px 3%;
+    }
+    
+}
+
+/* Wide Mobile Layout: 480px. */
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+    .nav-edit-fixd {
+        position: fixed;
+        width: 100%;
+        overflow: hidden;
+        z-index: 999;
+    }
+
+    .nav-a {
+        padding: 5px;
+    }
+
+    .nav-img-responsive {
+        width: 170px;
+    }
+
+    .su-lang-btn {
+        margin-bottom: 10px;
+    }
+
+    .header-banner-card {
+        width: 100%;
+        padding: 50px 0px;
+        display: block;
+    }
+
+    .banner-regi-card {
+        max-width: none;
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .banner-sm-card {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        flex-basis: 45%;
+        margin-left: 0px;
+    }
+
+    .banner-regi-card-title {
+        padding: 10px 0px;
+        justify-content: center;
+    }
+
+    .banner-regi-card-title-responsive {
+        width: 65px;
+    }
+
+    .banner-regi-card-text {
+        font-size: 30px;
+    }
+
+    .banner-regi-card-body-text {
+        font-size: 18px;
+    }
+
+    .banner-regi-card-body-img {
+        width: 230px;
+    }
+
+    .hotline-content {
+        top: 15px;
+        width: 100%;
+        display: block;
+        padding: 10px;
+    }
+
+    .hotline-meta {
+        margin: 15px 0px;
+    }
+
+    .hotline-meta p {
+        font-size: 18px;
+        text-decoration: underline;
+        text-underline-offset: 8px;
+        text-decoration-color: rgb(148, 148, 148);
+
+    }
+
+    .hotline-meta h6 {
+        font-size: 20px;
+    }
+
+    .prosess-guide-title {
+        font-size: 30px;
+        font-weight: 700;
+    }
+
+    .prosess-guide-content {
+        margin: 40px 0px;
+    }
+
+    .prosess-singel-card {
+        padding: 5px;
+    }
+
+    .prosess-singel-card p {
+        margin-bottom: 0;
+    }
+
+
+    .mujib-100-title {
+        font-size: 30px;
+        font-weight: 700;
+    }
+
+    .mujib-100-content {
+        margin: 0px 0px 50px 0px;
+    }
+
+    .mujib-100-body {
+        padding: 5px 0px;
+    }
+
+    .mujib100-playstore {
+        margin-top: 20px;
+    }
+
+    .mujib100-appstore {
+        margin-top: 20px;
+    }
+
+    .footer-content {
+        padding: 40px 0;
+    }
+
+    .footer-nav {
+        margin: 5px 0px;
+    }
+
+    .ict-help {
+        margin: 20px 0;
+    }
+
+    .sub-page-heading h1 {
+        font-size: 30px;
+        padding: 10px 0px;
+    }
+
+    .side-nanv-img {
+        display: none;
+    }
+
+    .sub-page-sideNav {
+        padding: 10px 0px;
+    }
+
+    .side-btn {
+        width: 94%;
+        margin: 5px 3%;
+    }
+
+    .vaccinStatus-header-content {
+        justify-content: space-between;
+    }
+
+    .vaccinStatus-header-content h1 {
+        font-size: 26px;
+    }
+
+    .vaccinStatus-header-content img {
+        max-width: 120px;
+    }
+
+    .vaccinStatus-body-heading {
+        padding: 30px 0px;
+    }
+}
+
+/* Mobile Layout: 320px. */
+@media only screen and (max-width: 575px) {
+    .nav-edit-fixd {
+        position: fixed;
+        width: 100%;
+        overflow: hidden;
+        z-index: 999;
+    }
+
+    .nav-a {
+        padding: 4px;
+    }
+
+    .nav-img-responsive {
+        width: 150px;
+    }
+
+    .su-lang-btn {
+        margin-bottom: 10px;
+    }
+
+    .header-banner-card {
+        width: 100%;
+        padding: 50px 0px 100px 0px;
+        display: block;
+    }
+
+    .banner-regi-card {
+        max-width: none;
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .banner-sm-card {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        flex-basis: 45%;
+        margin-left: 0px;
+    }
+
+    .banner-regi-card-title {
+        padding: 10px 0px;
+        justify-content: center;
+    }
+
+    .banner-regi-card-title-responsive {
+        width: 65px;
+    }
+
+    .banner-regi-card-text {
+        font-size: 30px;
+    }
+
+    .banner-regi-card-body-text {
+        font-size: 18px;
+    }
+
+    .banner-regi-card-body-img {
+        width: 230px;
+    }
+
+    .hotline-content {
+        top: 15px;
+        width: 100%;
+        display: block;
+        padding: 10px;
+    }
+
+    .hotline-meta {
+        margin: 15px 0px;
+    }
+
+    .hotline-meta p {
+        font-size: 18px;
+        text-decoration: underline;
+        text-underline-offset: 8px;
+        text-decoration-color: rgb(148, 148, 148);
+
+    }
+
+    .hotline-meta h6 {
+        font-size: 20px;
+    }
+
+    .prosess-guide-title {
+        font-size: 28px;
+        font-weight: 700;
+    }
+
+    .prosess-guide-content {
+        margin: 20px 0px;
+    }
+
+    .prosess-singel-card {
+        padding: 5px;
+    }
+
+    .prosess-singel-card p {
+        margin-bottom: 0;
+    }
+
+    .app-downlode-link {
+        flex-direction: column;
+        justify-content: center;
+    }
+
+    .mujib-100-title {
+        font-size: 28px;
+        font-weight: 700;
+    }
+
+    .mujib-100-content {
+        margin: 0px 0px 50px 0px;
+    }
+
+    .mujib-100-body {
+        padding: 5px 0px;
+    }
+
+    .mujib100-playstore {
+        margin-top: 15px;
+    }
+
+    .mujib100-appstore {
+        margin-top: 15px;
+    }
+
+    .footer-content {
+        padding: 30px 0;
+    }
+
+    .footer-nav {
+        margin: 5px 0px;
+    }
+
+    .ict-help {
+        margin: 20px 0;
+    }
+
+    .sub-page-heading h1 {
+        font-size: 28px;
+        padding: 10px 0px;
+    }
+
+    .side-nanv-img {
+        display: none;
+    }
+
+    .sub-page-sideNav {
+        padding: 10px 0px;
+    }
+
+    .side-btn {
+        width: 94%;
+        margin: 5px 3%;
+    }
+
+    .vaccinStatus-header-content {
+        justify-content: space-between;
+    }
+
+    .vaccinStatus-header-content h1 {
+        font-size: 22px;
+    }
+
+    .vaccinStatus-header-content img {
+        max-width: 110px;
+    }
+
+    .vaccinStatus-body-heading {
+        font-size: 16px;
+        padding: 30px 0px;
+    }
+
+}
